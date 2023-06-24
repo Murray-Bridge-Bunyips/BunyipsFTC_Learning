@@ -1,5 +1,5 @@
 	=== MURRAY BRIDGE BUNYIPS ===
- 	A repo containing code used by members of the First Tech Challenge Club Murray Bridge Bunyips 15215 to learn
+ 	A repo used by members of the First Tech Challenge Club Murray Bridge Bunyips 15215 to learn:
 	  	* Java
 	   	* Kotlin
 	    	* Creating and managing robot code
