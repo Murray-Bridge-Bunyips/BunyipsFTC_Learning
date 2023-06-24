@@ -1,3 +1,9 @@
+	=== MURRAY BRIDGE BUNYIPS ===
+ 	A repo containing code used by members of the First Tech Challenge Club Murray Bridge Bunyips 15215 to learn
+	  	* Java
+	   	* Kotlin
+	    	* Creating and managing robot code
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the POWERPLAY (2022-2023) competition season.
