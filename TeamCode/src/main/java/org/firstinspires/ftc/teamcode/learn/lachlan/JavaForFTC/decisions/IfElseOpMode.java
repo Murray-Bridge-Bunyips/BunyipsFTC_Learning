@@ -3,6 +3,7 @@ package org.firstinspires.ftc.teamcode.learn.lachlan.JavaForFTC.decisions;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
+@TeleOp()
 public class IfElseOpMode extends OpMode{
 
     @Override

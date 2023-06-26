@@ -1,6 +1,7 @@
 package org.firstinspires.ftc.teamcode.learn.lachlan.JavaForFTC.variables_datatypes;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
+import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 /*
 From the book I'm following:
@@ -19,6 +20,7 @@ decimals.
 of these values.)
 */
 
+@TeleOp()
 public class PrimitiveTypes extends OpMode {
 
     @Override

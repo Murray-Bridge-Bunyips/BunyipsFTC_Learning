@@ -14,6 +14,7 @@ Operator Meaning:
     >= is greater than or equal to
 */
 
+@TeleOp
 public class IfOpMode extends OpMode{
 
     @Override
